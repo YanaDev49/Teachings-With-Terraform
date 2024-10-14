@@ -1,4 +1,4 @@
-# Infrastructure Ochestration VS Configuration management
+# Infrastructure Ochestration 🆚 Configuration management
 
 ![image](https://github.com/user-attachments/assets/3bdc8638-6a1a-4bd7-8db0-e62e783f1071)
 
