@@ -22,5 +22,27 @@
 
 ## Testing Validation
 
+![image](https://github.com/user-attachments/assets/939bc201-33fb-4c89-91f7-7a50d0e9daea)
 
+### Testing and validation in Terraform are important because they help you catch mistakes before they affect your actual infrastructure. When you're managing cloud resources, a small error in your code can cause big problems, like downtime or misconfigurations.
+
+- By testing your Terraform code, you can make sure it’s doing exactly what you expect before you apply it. Validation helps check that your syntax is correct and that your configuration will work as intended.
+
+## Start with an MVP then iterate
+
+![image](https://github.com/user-attachments/assets/1d7beeb1-a283-4cb8-94b4-5db57bc2f34d)
+
+MVP stands for 'Minimum Viable Product' and this means confguring the resource that you need in order to deploy it into the cloud and then you could iterate.
+
+- This is where you can focus on implemeting variables or maybe turning your code into a terraform module.
+
+## Implement Dry Software engineering principle 
+
+![image](https://github.com/user-attachments/assets/10dcc008-d15e-4397-9a88-d69d18ae539e)
+
+### The DRY (Don't Repeat Yourself) principle in Terraform means writing your infrastructure code in a way that avoids repetition. Instead of copying the same blocks of code for similar resources, you can use variables, modules, or loops to reuse code.
+
+- For example, if you need to create multiple servers, you don’t have to repeat the same code for each one. By applying the DRY principle, you keep your code cleaner, easier to manage, and less prone to mistakes.
+
+![ThereYouHaveItSheaWhitneyGIF (4)](https://github.com/user-attachments/assets/67153d0e-721b-4478-84b4-79003a91dab2)
 
