@@ -1,6 +1,6 @@
 # Infrastructure Ochestration VS Configuration management
 
-![image](https://github.com/user-attachments/assets/c579cadd-6750-4daf-beea-1fbb02d2ce36)
+![image](https://github.com/user-attachments/assets/3bdc8638-6a1a-4bd7-8db0-e62e783f1071)
 
 ### When it comes to Terraform, Infrastructure Orchestration and Configuration Management are two important concepts, but they focus on different aspects of managing cloud resources.
 
