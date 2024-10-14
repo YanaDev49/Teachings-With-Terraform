@@ -1,4 +1,4 @@
-# What Is Terraform?
+# What Is Terraform? 🤔
 
 ![image](https://github.com/user-attachments/assets/e2837a55-e272-4778-a9b7-8d8e466ec8b1)
 #### Terraform is an open-source tool that helps you manage and automate infrastructure in the cloud. Infrastructure refers to the physical and virtual resources needed to run applications, like servers, databases, networks, and storage.
