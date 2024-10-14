@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/a3ea269c-0ea1-4b68-adee-acda62b579db)
 
-### Terraform documentation is super important because it helps you understand how to use the tool properly. When you’re working with Terraform, you often need to look up how to configure resources, set variables, or write certain functions, and the docs give you all the details you need to do that.
+#### Terraform documentation is super important because it helps you understand how to use the tool properly. When you’re working with Terraform, you often need to look up how to configure resources, set variables, or write certain functions, and the docs give you all the details you need to do that.
 
 - For example, if you want to create an AWS instance or set up a network, the Terraform docs will show you the exact syntax and options to use.
   
@@ -14,7 +14,7 @@
 
 ![image](https://github.com/user-attachments/assets/ba30a8b9-cf9e-46a6-83a4-6e93f4a43463)
 
-### The Terraform Registry is super useful because it’s like a big library of pre-built modules and providers that you can use in your projects.
+#### The Terraform Registry is super useful because it’s like a big library of pre-built modules and providers that you can use in your projects.
 
 - Instead of writing everything from scratch, you can find modules for things like setting up AWS services, databases, or Kubernetes clusters, and just plug them into your Terraform code.
 
@@ -24,7 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/939bc201-33fb-4c89-91f7-7a50d0e9daea)
 
-### Testing and validation in Terraform are important because they help you catch mistakes before they affect your actual infrastructure. When you're managing cloud resources, a small error in your code can cause big problems, like downtime or misconfigurations.
+#### Testing and validation in Terraform are important because they help you catch mistakes before they affect your actual infrastructure. When you're managing cloud resources, a small error in your code can cause big problems, like downtime or misconfigurations.
 
 - By testing your Terraform code, you can make sure it’s doing exactly what you expect before you apply it. Validation helps check that your syntax is correct and that your configuration will work as intended.
 
@@ -40,7 +40,7 @@ MVP stands for 'Minimum Viable Product' and this means confguring the resource t
 
 ![image](https://github.com/user-attachments/assets/10dcc008-d15e-4397-9a88-d69d18ae539e)
 
-### The DRY (Don't Repeat Yourself) principle in Terraform means writing your infrastructure code in a way that avoids repetition. Instead of copying the same blocks of code for similar resources, you can use variables, modules, or loops to reuse code.
+#### The DRY (Don't Repeat Yourself) principle in Terraform means writing your infrastructure code in a way that avoids repetition. Instead of copying the same blocks of code for similar resources, you can use variables, modules, or loops to reuse code.
 
 - For example, if you need to create multiple servers, you don’t have to repeat the same code for each one. By applying the DRY principle, you keep your code cleaner, easier to manage, and less prone to mistakes.
 
