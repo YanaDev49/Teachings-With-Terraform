@@ -1,7 +1,7 @@
 # What is a terraform state file and why is it important? 
 ![image](https://github.com/user-attachments/assets/bbf16d60-3811-47d8-b2f7-4ccd48ae650c)
 
-#### your terraform statefile is a record of your your existing infrastructure. Its an up to date record of your actual state. This is crucial because it helps ensure idempotency.
+#### your terraform statefile is a record of your existing infrastructure. Its an up to date record of your actual state. This is crucial because it helps ensure idempotency.
 
 ## What is Idempotency in Terraform? 🤔
 ![image](https://github.com/user-attachments/assets/501ec14b-1d47-4039-8ab5-2edcee178f95)
