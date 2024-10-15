@@ -16,7 +16,7 @@ multiple times and the result will be the same. If you make a particular change 
  ## Desired State VS Current State
 ![image](https://github.com/user-attachments/assets/c5217f14-f159-4687-8c24-939f9a9a26fe)
 
-- We already said how your Terraform state file is a file that keeps track of your infrastructure's current state. For example if you want to deploy an ec2 instance everything (details0 will be on your state file 
+- We already said how your Terraform state file is a file that keeps track of your infrastructure's current state. For example if you want to deploy an ec2 instance everything (details will be on your state file 
 
 - your desired state however is your terraform configuration of changes your trying to deploy it
 
