@@ -26,3 +26,5 @@ Shows you the plan: Terraform then gives you a "plan" — listing what it’s go
 - ~ for resources that will be modified (changed settings).
 
 - '-' for resources that will be deleted.
+
+![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/17b7a5d4-f63b-476c-ae80-243732c086cb)
