@@ -16,7 +16,7 @@ Compares with the current state: It checks what already exists in your cloud pro
 Shows you the plan: Terraform then gives you a "plan" — listing what it’s going to create, update, or delete. 
 
 
-![Screenshot 2024-10-16 171231](https://github.com/user-attachments/assets/b65fa04f-f882-4efd-9c9c-e2c9419126fd)
+<img width="650" alt="Screenshot 2024-10-16 170610" src="https://github.com/user-attachments/assets/f174f5f0-4ebc-42a3-ada7-2ed584d5c8fb">
 
 
 ![Screenshot 2024-10-16 171231](https://github.com/user-attachments/assets/d542088e-4b16-449d-bd15-9aea33d0fbf8)
