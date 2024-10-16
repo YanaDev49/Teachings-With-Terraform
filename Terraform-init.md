@@ -13,6 +13,23 @@ Prepares Your Directory: Terraform creates a folder called '.terraform', where i
 ### Think of terraform init like getting your toolbox ready before starting a job. It makes sure you have all the right tools (providers and plugins) and prepares your workspace so Terraform can start building or managing resources.
 
 
+## What happens when you run it:
+
+$ terraform init
+
+Initializing the backend...
+
+Initializing provider plugins...
+- Finding hashicorp/aws versions matching ">= 2.7.0"...
+- Installing hashicorp/aws v3.44.0...
+- Installed hashicorp/aws v3.44.0 (signed by HashiCorp)
+
+Terraform has been successfully initialized!
+
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure.
+
+
 ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/0a72480c-b34b-4a9b-bf33-048643ccf7fb)
 
 
