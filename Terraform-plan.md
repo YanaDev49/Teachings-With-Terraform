@@ -16,10 +16,13 @@ Compares with the current state: It checks what already exists in your cloud pro
 Shows you the plan: Terraform then gives you a "plan" — listing what it’s going to create, update, or delete. 
 
 
-<img width="402" alt="Screenshot 2024-10-16 170610" src="https://github.com/user-attachments/assets/d07c1e9a-0998-4269-bed8-722d86b181e5">
+![Screenshot 2024-10-16 171231](https://github.com/user-attachments/assets/b65fa04f-f882-4efd-9c9c-e2c9419126fd)
+
 
 ![Screenshot 2024-10-16 171231](https://github.com/user-attachments/assets/d542088e-4b16-449d-bd15-9aea33d0fbf8)
 
 + for resources that will be added (new ones).
+  
 ~ for resources that will be modified (changed settings).
+
 - '-' for resources that will be deleted.
