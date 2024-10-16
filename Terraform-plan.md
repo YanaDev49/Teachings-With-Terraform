@@ -28,4 +28,18 @@ Terraform analyses your configuration files, compares them to the current state 
 
 #### - '-' for resources that will be deleted.
 
+## A further breakdown
+
+### When you run terraform plan, Terraform is basically checking the current state of your infrastructure against the desired state that you've defined in your configuration files.
+
+Current state: This is what your infrastructure looks like right now, based on what’s already been created or modified. Terraform keeps track of this in a state file (like terraform.tfstate), which holds details about the resources it’s managing.
+
+Desired state: This is what you're aiming for—what you've written in your .tf files. These files define the resources you need, how they should be configured, and how they should connect.
+
+### When you run terraform plan, it:
+
+- Looks at the current state to see what’s already in place.
+- Compares that to the desired state you’ve defined in your code.
+- Shows you a plan of what changes will be made—whether it needs to create, update, or delete resources to get your infrastructure to match what you've described.
+
 ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/17b7a5d4-f63b-476c-ae80-243732c086cb)
