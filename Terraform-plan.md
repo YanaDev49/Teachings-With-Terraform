@@ -8,13 +8,13 @@ Terraform analyses your configuration files, compares them to the current state 
 
 ### essentially, terraform plan is like a preview of what Terraform is going to do. It checks your code and shows you what changes it’s about to make to your infrastructure before actually doing anything. It's a safe way to see what will happen without making any changes yet.
 
-- What Happens When You Run terraform plan:
+## What Happens When You Run terraform plan:
   
 𝗖𝗵𝗲𝗰𝗸𝘀 𝘁𝗵𝗲 𝗰𝗼𝗱𝗲: Terraform looks at your configuration (the .tf files you wrote) to see what resources you want to create, update, or delete.
-
+##
 𝗖𝗼𝗺𝗽𝗮𝗿𝗲𝘀 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘀𝘁𝗮𝘁𝗲: It checks what already exists in your cloud provider (like AWS) by comparing with your state file (a file that tracks your existing infrastructure).
-
-Shows you the plan: Terraform then gives you a "plan" — listing what it’s going to create, update, or delete. 
+##
+𝗦𝗵𝗼𝘄𝘀 𝘆𝗼𝘂 𝘁𝗵𝗲 𝗽𝗹𝗮𝗻: Terraform then gives you a "plan" — listing what it’s going to create, update, or delete. 
 
 
 <img width="650" alt="Screenshot 2024-10-16 170610" src="https://github.com/user-attachments/assets/f174f5f0-4ebc-42a3-ada7-2ed584d5c8fb">
@@ -22,10 +22,10 @@ Shows you the plan: Terraform then gives you a "plan" — listing what it’s go
 
 ![Screenshot 2024-10-16 171231](https://github.com/user-attachments/assets/d542088e-4b16-449d-bd15-9aea33d0fbf8)
 
-- '+' for resources that will be added (new ones).
+#### - '+' for resources that will be added (new ones).
   
-- ~ for resources that will be modified (changed settings).
+#### - ~ for resources that will be modified (changed settings).
 
-- '-' for resources that will be deleted.
+#### - '-' for resources that will be deleted.
 
 ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/17b7a5d4-f63b-476c-ae80-243732c086cb)
