@@ -9,6 +9,7 @@ Terraform analyses your configuration files, compares them to the current state 
 ### essentially, terraform plan is like a preview of what Terraform is going to do. It checks your code and shows you what changes it’s about to make to your infrastructure before actually doing anything. It's a safe way to see what will happen without making any changes yet.
 
 - What Happens When You Run terraform plan:
+  
 Checks the code: Terraform looks at your configuration (the .tf files you wrote) to see what resources you want to create, update, or delete.
 
 Compares with the current state: It checks what already exists in your cloud provider (like AWS) by comparing with your state file (a file that tracks your existing infrastructure).
