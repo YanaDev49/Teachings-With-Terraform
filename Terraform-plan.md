@@ -21,8 +21,8 @@ Shows you the plan: Terraform then gives you a "plan" — listing what it’s go
 
 ![Screenshot 2024-10-16 171231](https://github.com/user-attachments/assets/d542088e-4b16-449d-bd15-9aea33d0fbf8)
 
-+ for resources that will be added (new ones).
+- '+' for resources that will be added (new ones).
   
-~ for resources that will be modified (changed settings).
+- ~ for resources that will be modified (changed settings).
 
 - '-' for resources that will be deleted.
