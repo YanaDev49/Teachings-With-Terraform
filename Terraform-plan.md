@@ -10,9 +10,9 @@ Terraform analyses your configuration files, compares them to the current state 
 
 - What Happens When You Run terraform plan:
   
-Checks the code: Terraform looks at your configuration (the .tf files you wrote) to see what resources you want to create, update, or delete.
+𝗖𝗵𝗲𝗰𝗸𝘀 𝘁𝗵𝗲 𝗰𝗼𝗱𝗲: Terraform looks at your configuration (the .tf files you wrote) to see what resources you want to create, update, or delete.
 
-Compares with the current state: It checks what already exists in your cloud provider (like AWS) by comparing with your state file (a file that tracks your existing infrastructure).
+𝗖𝗼𝗺𝗽𝗮𝗿𝗲𝘀 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘀𝘁𝗮𝘁𝗲: It checks what already exists in your cloud provider (like AWS) by comparing with your state file (a file that tracks your existing infrastructure).
 
 Shows you the plan: Terraform then gives you a "plan" — listing what it’s going to create, update, or delete. 
 
